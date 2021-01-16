@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\FORGE-15 1650\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\FORGE-15 1650\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
